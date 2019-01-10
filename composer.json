@@ -1,6 +1,6 @@
 {
     "name": "woody/middleware-correlation-id",
-    "description": "",
+    "description": "Middleware PSR-15 compliant which handle Correlation ID Header",
     "type": "library",
     "license": "MIT",
     "authors": [
